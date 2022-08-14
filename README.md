@@ -1,24 +1,7 @@
-[![GitHub license](https://img.shields.io/github/license/mintware-de/flutter_barcode_reader.svg)](https://github.com/mintware-de/flutter_barcode_reader/blob/master/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/mintware-de/flutter_barcode_reader)](https://github.com/mintware-de/flutter_barcode_reader/stargazers)
-[![Pub](https://img.shields.io/pub/v/barcode_scan.svg)](https://pub.dartlang.org/packages/barcode_scan)
-[![GitHub forks](https://img.shields.io/github/forks/mintware-de/flutter_barcode_reader)](https://github.com/mintware-de/flutter_barcode_reader/network)
-
 # DEVELOPMENT HAS BEEN DISCONTINUED
 Since there are many other libraries which provides more and better   functionality in barcode scanning, I decided to discontinue the development of this project.
 I recommend the Firebase ML Vision package as an alternative: https://pub.dev/packages/firebase_ml_vision
 
-<br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br>
-
-# Barcode Scanner
-
-A flutter plugin for scanning 2D barcodes and QR codes. 
-
-This provides a simple wrapper for two commonly used iOS and Android libraries:
-
-iOS: https://github.com/mikebuss/MTBBarcodeScanner
-
-Android: https://github.com/dm77/barcodescanner
 
 ### Features
 - [x] Scan 2D barcodes
